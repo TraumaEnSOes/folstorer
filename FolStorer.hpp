@@ -1,0 +1,4 @@
+#ifndef XVA2PROTO_FOLSTORER_HPP
+#define XVA2PROTO_FOLSTORER_HPP
+
+#endif
